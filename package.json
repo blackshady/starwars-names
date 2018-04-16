@@ -1,0 +1,15 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/blackshady/starwars-names.git",
+  "author": "Victor Chibuike <victorblackshady@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.0"
+  },
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
+}
